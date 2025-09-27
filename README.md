@@ -22,7 +22,7 @@ Row 2 shows the LED current in mA and the potentiometer resistance in kΩ.
 ![Project Scheme](resources\Scheme.png)
 
 # Circuit Scheme
-![Circuit Scheme](resources\Circuit_Scheme.png)
+![Circuit Scheme](resources\Circuit%20Scheme.png)
 
 ## Components Used
 
