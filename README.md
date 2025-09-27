@@ -19,13 +19,12 @@ Row 1 shows VA and VB voltages.
 Row 2 shows the LED current in mA and the potentiometer resistance in kΩ.
 
 # Project Scheme
-![Project Scheme](resources\Scheme.png)
+![Project Scheme](resources/Scheme.png)
 
 # Circuit Scheme
-![Circuit Scheme](resources\Circuit%20Scheme.png)
+![Circuit Scheme](resources/Circuit%20Scheme.png)
 
 ## Components Used
-
 <table>
   <thead>
     <tr>
