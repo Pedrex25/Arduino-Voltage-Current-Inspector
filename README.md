@@ -22,7 +22,7 @@ Row 2 shows the LED current in mA and the potentiometer resistance in kΩ.
 ![Project Scheme](resources\Scheme.png)
 
 # Circuit Scheme
-![Project Scheme](resources\Circuit_Scheme.png)
+![Circuit Scheme](resources\Circuit_Scheme.png)
 
 ## Components Used
 
@@ -66,5 +66,5 @@ Row 2 shows the LED current in mA and the potentiometer resistance in kΩ.
       <td>Blue LED</td>
     </tr>
   </tbody>
-</table>\tr
+</table>
 
